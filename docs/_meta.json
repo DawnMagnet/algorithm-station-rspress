@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Leetcode",
+    "link": "/leetcode/intro",
+    "activeMatch": "^/leetcode/"
+  },
+  {
+    "text": "Codeforces",
+    "link": "/codeforces/intro",
+    "activeMatch": "^/codeforces/"
+  },
+  {
+    "text": "Github ",
+    "link": "https://rspress.dev/api/index.html"
+  }
+]

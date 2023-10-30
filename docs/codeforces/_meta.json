@@ -1,0 +1,17 @@
+[
+  {
+    "type": "file",
+    "name": "intro",
+    "label": "介绍"
+  },
+  {
+    "type": "file",
+    "name": "template",
+    "label": "Rust代码模板"
+  },
+  {
+    "type": "file",
+    "name": "1882",
+    "label": "Div.2 899 - ID: 1882"
+  }
+]

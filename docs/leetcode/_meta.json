@@ -1,0 +1,25 @@
+[
+  {
+    "type": "file",
+    "name": "intro",
+    "label": "介绍"
+  },
+  {
+    "type": "dir",
+    "name": "2021",
+    "label": "2021",
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "2022",
+    "label": "2022",
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "special",
+    "label": "特殊",
+    "collapsed": true
+  }
+]
