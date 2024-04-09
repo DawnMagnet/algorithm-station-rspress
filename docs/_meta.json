@@ -9,6 +9,7 @@
     "link": "/codeforces/intro",
     "activeMatch": "^/codeforces/"
   },
+  { "text": "CTF", "link": "/ctf/intro", "activeMatch": "^/ctf/" },
   {
     "text": "Github ",
     "link": "https://rspress.dev/api/index.html"
